@@ -1,3 +1,3 @@
 # git_test
 
-git fetch 
+测试 git pull 
